@@ -23,8 +23,8 @@ URxvt*termName: xterm-256color
 *.color11:      #ffcc66
 
 ! blue
-*.color4:       #398ae5
-*.color12:      #398ae5
+*.color4:       #79b8ff
+*.color12:      #79b8ff
 
 ! magenta
 *.color5:       #cc99cc
@@ -39,11 +39,11 @@ URxvt*termName: xterm-256color
 *.color15:      #f2f0ec
 
 ! man page coloring
-*.colorIT:		#87af5f
-*.colorBD:		#d7d7d7
-*.colorUL:		#87afd7
+*.colorIT:      #87af5f
+*.colorBD:      #d7d7d7
+*.colorUL:      #87afd7
 
 *.font: xft:Ubuntu Mono:style=Regular:size=15
 *.boldFont: xft:Ubuntu Mono:style=Bold:size=15
 
-*.letterSpace: 0
+*.letterSpace: 1
