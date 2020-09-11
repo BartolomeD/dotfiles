@@ -136,7 +136,7 @@ bar {
         separator  $background
 
         #                  BORDER         BACKGROUND    TEXT
-        focused_workspace  $background    $background   $green
+        focused_workspace  $background    $background   $verywhite
         inactive_workspace $background    $background   $white
         active_workspace   $background    $background   $white
         urgent_workspace   $background    $background   $red
