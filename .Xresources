@@ -3,7 +3,7 @@ URxvt*termName: xterm-256color
 
 ! special
 *.foreground:   #c5c8c6
-*.background:   #252526
+*.background:   #1f2428
 *.cursorColor:  #c5c8c6
 
 ! black
@@ -11,20 +11,20 @@ URxvt*termName: xterm-256color
 *.color8:       #747369
 
 ! red
-*.color1:       #f2777a
-*.color9:       #f2777a
+*.color1:       #f9826c
+*.color9:       #f9826c
 
 ! green
-*.color2:       #99cc99
-*.color10:      #99cc99
+*.color2:       #23d18b
+*.color10:      #23d18b
 
 ! yellow
 *.color3:       #ffcc66
 *.color11:      #ffcc66
 
 ! blue
-*.color4:       #6699cc
-*.color12:      #6699cc
+*.color4:       #398ae5
+*.color12:      #398ae5
 
 ! magenta
 *.color5:       #cc99cc
@@ -43,7 +43,7 @@ URxvt*termName: xterm-256color
 *.colorBD:		#d7d7d7
 *.colorUL:		#87afd7
 
-*.font: xft:Terminus:style=Regular:size=14
-*.boldFont: xft:Terminus:style=Bold:size=14
+*.font: xft:Ubuntu Mono:style=Regular:size=15
+*.boldFont: xft:Ubuntu Mono:style=Bold:size=15
 
-*.letterSpace: 1
+*.letterSpace: 0
