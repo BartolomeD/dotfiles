@@ -136,7 +136,7 @@ bar {
         separator  $background
 
         #                  BORDER         BACKGROUND    TEXT
-        focused_workspace  $verywhite     $background   $verywhite
+        focused_workspace  $background    $background   $green
         inactive_workspace $background    $background   $white
         active_workspace   $background    $background   $white
         urgent_workspace   $background    $background   $red
@@ -158,7 +158,7 @@ mode "resize" {
 }
 
 # window colors         BACKGROUND    BORDER      TEXT      INDICATOR
-client.focused          $verywhite    $verywhite  $white    $white
+client.focused          $verywhite    $white      $white    $white
 client.focused_inactive $black        #333333     #ffffff   #ffffff
 client.unfocused        $black        #333333     #888888   #292d2e
 client.urgent           $red          $red        $red      $red
